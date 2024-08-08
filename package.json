@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "babel": "^6.23.0",
+    "pixi.js": "^8.2.5",
+    "tween.js": "^16.6.0",
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
